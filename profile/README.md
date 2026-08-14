@@ -1,5 +1,6 @@
 ## Equipe de competição de robôs voadores autônomos (drones)
-Participante da Competição Brasileira de Robótica (CBR)🤖
+2º colocado na Competição Brasileira de Robótica (CBR 2025)🤖
+3º colocado na EletroQuad 2026
 
 <!--
 **Here are some ideas to get you started:**
